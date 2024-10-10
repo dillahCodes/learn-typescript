@@ -1,0 +1,15 @@
+{
+  "name": "day-1-primitive-types",
+  "version": "1.0.0",
+  "description": "learn typescript primitive types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node app.js"
+  },
+  "author": "dillahCodes",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
